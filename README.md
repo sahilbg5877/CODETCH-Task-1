@@ -4,7 +4,7 @@
 
 
 **Intern Details:**
-Name: Sahil Balkrushna Gadge
+Name: Sahil Balkrushna Gadge.
 Company: CODETECH IT SOLUTIONS PVT. LTD
 ID: CT12DR1813
 Domain: Data Analytics
